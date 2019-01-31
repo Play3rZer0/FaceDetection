@@ -12,10 +12,6 @@ OpenCV 3.4.3 was used with this project, suitable for Python 2.7.14. To determin
 
 import cv2
 
-If that is successful, you can determine the version installed by typing:
-
-print cv2.__version__
-
 Images used in this project were set to a resolution of 500 x 331 pixels (JPEG)
 
 
