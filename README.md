@@ -14,4 +14,6 @@ import cv2
 
 Images used in this project were set to a resolution of 500 x 331 pixels (JPEG)
 
+For documentation, please read:
 
+https://becominghuman.ai/face-detection-using-opencv-with-haar-cascade-classifiers-941dbb25177
