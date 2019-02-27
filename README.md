@@ -1,5 +1,5 @@
 # FaceDetection
-Detecting faces in mages using Open CV and Haar Cascades.
+Detecting faces in images using Open CV and Haar Cascades.
 
 This requires Open CV, Python, Haar Cascades training data and suitable OS platform (Mac, Linux or Windows). For specific version please check vendor websites for the latest.
 
